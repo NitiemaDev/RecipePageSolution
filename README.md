@@ -39,8 +39,8 @@ The challenge is to build a recipe page that is fully responsive, following the 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-responsive-recipe-page-built-with-tailwind-css-V7dCUdQoMM)
+- Live Site URL: [Add live site URL here](https://recipe-page-solution-alpha.vercel.app/)
 
 ---
 
@@ -74,7 +74,7 @@ I plan to continue learning more about Tailwind CSS and experimenting with its a
 
 ### Author
 
-- Website - [Allassane Nitiema](https://github.com/NitiemaDev)
+- Gi - [Allassane Nitiema](./)
 - Frontend Mentor - [@NitiemaDev](https://www.frontendmentor.io/profile/NitiemaDev)
 
 ### Acknowledgments
