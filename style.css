@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+.font-outfit { font-family: 'Outfit', sans-serif; }
+.font-young-serif { font-family: 'Young Serif', serif; }
+
+/* attribution */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+h1, 
+h2{
+    font-family: 'Young Serif', serif;
+}
+
+h2{
+    color: hsl(14, 45%, 36%);
+    font-size: 24px;
+}
+
+p, 
+li{
+     font-family: 'Outfit', sans-serif; 
+     color: hsl(30, 10%, 34%);
+}
+
+hr {
+    margin: 25px 0;
+}
+
+.list-square {
+    list-style-type: square;
+}
+
+
+
+
